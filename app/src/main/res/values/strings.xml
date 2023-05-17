@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Air Battle</string>
+    <string name="app_guid_kochava">koair-battle-lbm54</string>
+    <string name="reminders_notification_channel_id">air_battle_channel_id</string>
+    <string name="default_notification_channel_id">com.viridi_domo.airbattle</string>
+    <string name="reminders_notification_channel_name">air_battle_channel_name</string>
+    <string name="appsflyer_dev_key">GMwSy9FNWgfUMQBSSHA4Qe</string>
+</resources>

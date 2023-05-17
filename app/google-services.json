@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "788777491313",
+    "project_id": "air-battle-67ca2",
+    "storage_bucket": "air-battle-67ca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788777491313:android:24c2e8f3ea6e5e6d0eb4d0",
+        "android_client_info": {
+          "package_name": "com.viridi_domo.airbattle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788777491313-bp0q8dfed8espmmjc71e9c2o62hf9lr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.viridi_domo.airbattle",
+            "certificate_hash": "a07bf226151b2483aa2df0a2b1c79eadfa9a6352"
+          }
+        },
+        {
+          "client_id": "788777491313-i9m5c7sblu57072l752fbeanaaiogoee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKxGHt2U-jqxbABZny5yTmY2CmXW_WzQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788777491313-i9m5c7sblu57072l752fbeanaaiogoee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
